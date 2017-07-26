@@ -20,6 +20,7 @@ Run
 Before running tool, edit PurgeWizard.ini file for your environment. 
 
 run command
+
 python PurgeWizard.py
 
 Requirements
