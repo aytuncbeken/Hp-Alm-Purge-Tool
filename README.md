@@ -15,5 +15,14 @@ Solution
 This tool is works as same HP ALM Purge Wizard. Addition to default behaviour, it can be run multithreaded. 
 It connects ALM via it's Rest Api.
 
+Run
+-------------------
+Before running tool, edit PurgeWizard.ini file for your environment. 
 
+To run,
+python PurgeWizard.py
+
+Requirements
+-------------------
+Python 3.6
 
